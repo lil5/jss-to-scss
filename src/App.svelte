@@ -87,7 +87,7 @@
 						class={`absolute top-2 right-2 border-2 border-gray-700 hover:border-[#cf649a] rounded-md w-8 h-8 bg-base-200 text-primary-content active:text-[#cf649a] ${
 							isClipboardSupported ? "" : "hidden"
 						}`}
-						data-clipboard-text={jssText}><span class="icon-copy" /></button
+						data-clipboard-text={scssText}><span class="icon-copy" /></button
 					>
 					<span
 						class={`absolute top-[11px] right-[38px] border-l border-y border-gray-700 bg-base-200 rounded-l px-2 transition-transform ${
