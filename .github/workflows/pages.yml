@@ -16,7 +16,7 @@ jobs:
       - name: Install dependencies
         run: npm ci
       - name: Run Build
-        run: npm run build
+        run: npm run build -- --base=/jss-to-scss/
       - name: Push to github pages
         uses: crazy-max/ghaction-github-pages@v2
         env:
