@@ -53,6 +53,3 @@ export default function (s: string): string {
 function camelPascalCaseToKebabCase(s: string): string {
   return s.replace(/(.)([A-Z])/g, "$1-$2").toLowerCase();
 }
-function t(n: number): string {
-  return "_TEST" + n;
-}

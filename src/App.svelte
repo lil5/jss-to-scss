@@ -56,7 +56,8 @@
 		</div>
 		<div class="navbar-end">
 			<a
-				href="#"
+				href="https://github.com/lil5/jss-to-scss"
+				target="_blank"
 				alt="git repository"
 				class="border-2 border-gray-700 hover:border-[#F05133] transition-colors rounded-xl py-1 px-2 inline-flex items-center text-gray-100 font-bold group"
 				>Fork<span class="ml-1 group-hover:text-[#F05133] icon-fork"
