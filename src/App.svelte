@@ -74,7 +74,7 @@
 					on:focus={focusJssTextaria}
 					on:focusout={focusoutJssTextaria}
 					spellcheck="false"
-					class="w-full h-full bg-base-300 p-4 resize-none outline-0 focus:ring-1 ring-[#A39000] language-ts"
+					class="w-full h-full bg-base-300 p-4 resize-none outline-0 focus:ring-1 ring-[#A39000] font-mono"
 				/>
 			</div>
 
